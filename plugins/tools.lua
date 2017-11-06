@@ -7,7 +7,7 @@
  BY @TAHAJ20 DEV : TAHAJ20            
 --]]
 
-local SUDO = 373906612--  اديك هنا  --  ===>  
+local SUDO = 244252169--  اديك هنا  --  ===>  
 local function index_function(user_id)
   for k,v in pairs(_config.admins) do
     if user_id == v[1] then
