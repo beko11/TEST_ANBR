@@ -75,30 +75,16 @@ function create_config( )
 		"phony",
 		"sudo"
 	},
-    sudo_users = {373906612,321050917},
+    sudo_users = {244252169},
     admins = {},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
     info_text = [[
- 🔹 ŚᎧÛℜϾËŚ ŚͲᎧℜⱮ v 1  🔸
+ 🔹 ԲᏐꝘ Ᏸ๑τ v 1  🔸
 
- 🔗 | [https://telegram.me/TEAMSTORM]
-
- 🔗 | [ ]
-
- 🔗 | Đ€V ŚᎧÛℜϾËS
+ 🔗 | [DEV BOT](https://telegram.me/fiq_king)
  
- 🔗 | ĐËV : @TAHAJ20
- 
- 🔗 | ĐËV : @N0VAR
-
- 🔗 | ÇH BØT : @TAEMSTORM
- 
- 🔗 | ĐÆ : @TAHAJ20_BOT
- 
- 🔗 | GRØP : https://t.me/joinchat/FklctEH6wIF8sFUZFMgEaQ
- 
- اتمنا التوفيق للجميع ❤
+ 🔗 | [TWSL](https://telegram.me/beko_tvbot)
  
 ]],
   }
