@@ -1,11 +1,11 @@
-# DEVSTORM
-[Ꮏ Ꭼ Ꭿ Ꮇ Ꮪ Ꮏ Ꮻ Ꭱ Ꮇ 📯](https://telegram.me/TEAMSTORM )
+# TEAM-ALANBR
+[Ꮏ Ꭼ Ꭿ ᗰ ＡＬ-ＡⲚᏴ℞ 📯](https://telegram.me/TEAM_ALANBR )
 
 
 [ᗫËᏉ ┋ͲÂⴼÂ  👁‍🗨](https://telegram.me/TAHAJ20 )
 
 ⛥ ~~ ~~ ~~ ~~ ~~ ~~ ~~ ⛥
-اهلا بك في سورس ستورم
+اهلا بك في # TEAM-ALANBR
 
 ⛦• • • • • • • • • • • ⛦
 
@@ -16,10 +16,10 @@
 
 ⛦• • خلي اول كود واضغط انتر • • ⛦
 
-📮┋git clone https://github.com/zuaus/DEVSTORM.git
+📮┋git clone https://github.com/beko11/TEST_ANBR.git
 ⛦• • حط ثاني كود وانتر 🔻 • • ⛦
 
-📮┋cd DEVSTORM 
+📮┋cd TEST_ANBR
 
 ⛦• • حط ثالث كود وانتر 🔻• • ⛦
 
